@@ -1,0 +1,114 @@
+body{
+	background-image: url(palma.jpg);
+	background-attachment: fixed;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+.bigdiv{
+	color: #green;
+	background-image: url(kezenallas.JPG);
+	background-size: 100% 100%;
+	width: 60%;  
+	margin-left: 20% ;
+	border: 5px; 
+	border-color:aqua; 
+	border-style: solid; 
+	
+	
+
+}
+.jelolt{
+	color:  #C0C0C0; 
+	background-color: aquamarine;
+	border:2px;
+	border-color:aquamarine; 
+	border-style: solid; 
+	font-family:"Times New Roman",cursive;
+}
+.jeloletlen{
+	color: aquamarine;
+	background-color:#C0C0C0; 
+	border:2px;
+	border-color:#C0C0C0; 
+	border-style: solid; 
+	font-family:"Times New Roman",cursive;
+
+}
+h1{
+	color: #C0C0C0; 
+	margin-left: 10%;
+	font-family:"Times New Roman",cursive;
+}
+
+
+}
+
+.magamrolh2{
+	color: #2E593A; 
+	background-color: #C0C0C0; 
+	margin-left: 20%; 
+	margin-right: 20%; 
+	border: 2px;
+	border-color:#C0C0C0; 
+	border-style: solid; 
+	font-family:"Times New Roman",cursive;
+}
+p{
+	color: black; 
+	background-color: #C0C0C0; 
+	text-align: center;
+	border: 2px;
+	border-color:#C0C0C0; 
+	border-style: solid; 
+	font-family: "Times New Roman",cursive;
+}
+.kepdiv{
+	color: aquamarine; 
+	background-color: aquamarine; 
+	width: 40%;  
+	margin-left:auto;
+	margin-right:auto;
+	border: 2px;
+	border-color:aquamarine; 
+	border-style: solid; 
+	display: block;
+
+}
+img{
+	margin-left: 33%
+	
+}
+.snow{
+	width:375px;
+	height: 300px;
+	margin-left:0%;
+	
+}
+.wake{
+	width: 375px;
+	height: 300;
+	margin-left:0%;
+	
+}
+.kez{
+	width: 375px;
+	height: 300;
+	margin-left: 0%;
+}
+.uszas{
+	width: 375px;
+	height: 300;
+	margin-left: 0%;
+}
+.zaszlo{
+	width: 375px;
+	height: 300;
+	margin-left: 0%;
+}
+.terv{
+	width: 375px;
+	height: 300;
+	margin-left: 0%;
+}
